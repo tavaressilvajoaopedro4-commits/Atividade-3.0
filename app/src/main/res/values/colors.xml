@@ -1,0 +1,13 @@
+<resources>
+    <color name="purple">#8257E5</color>
+    <color name="green">#04D361</color>
+    <color name="background_white">#F0F0F7</color>
+    <color name="shape_01_white">#FFFFFF</color>
+    <color name="shape_02_white">#FAFAFC</color>
+    <color name="shape_disable">#DCDCE5</color>
+    <color name="text_title">#32264D</color>
+    <color name="text_base">#6A6180</color>
+    <color name="text_complement">#9C98A6</color>
+    <color name="text_in_purple_title">#FFFFFF</color>
+    <color name="text_in_purple_base">#D4C2FF</color>
+</resources>

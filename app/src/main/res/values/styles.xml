@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.Proffy" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="android:navigationBarColor">@color/background_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="CustomFilledTextFieldEmail" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/shape_02_white</item>
+        <item name="boxBackgroundMode">filled</item>
+        <item name="boxStrokeColor">@color/shape_disable</item>
+        <item name="hintTextColor">@color/text_complement</item>
+        <item name="android:textColorHint">@color/text_complement</item>
+    </style>
+</resources>
