@@ -2,8 +2,8 @@
 
 Projeto Android Kotlin com o fluxo de recuperação de senha inspirado nas referências visuais fornecidas.
 
-**Nome completo:** [preencha seu nome completo]  
-**Turma:** [preencha sua turma]
+**Nome completo:** [João Pedro]  
+**Turma:** [6 periodo SI]
 
 ## Fluxo implementado
 
